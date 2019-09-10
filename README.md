@@ -1,5 +1,3 @@
 # Bash Samples
-# 01_Let's Echo
-
-
+Thanks for samples to www.hackerrank.com
 
